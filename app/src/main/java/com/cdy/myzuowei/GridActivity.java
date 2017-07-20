@@ -16,7 +16,6 @@ public class GridActivity extends Activity {
     private SimpleAdapter sim_adapter;
     private int[] icon = { R.drawable.icon_1, R.drawable.icon_2,
             R.drawable.icon_3, R.drawable.icon_4, R.drawable.icon_5};
-    private String[] iconName = { "通讯录", "日历", "照相机", "时钟", "游戏"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
